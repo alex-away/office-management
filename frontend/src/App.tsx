@@ -1,10 +1,12 @@
-import Message from "./Message"
+import Message1 from "./Message1"
+import Message2 from "./Message2";
 
 function App() {
 
   return (
     <div>
-        <Message />
+        <Message1 />
+        <Message2 />
     </div>
   )
 }
