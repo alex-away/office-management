@@ -1,0 +1,3 @@
+2025-08-30 10:24:04.397311+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "OFFICE" not found; SQL statement:
+select * from office [42102-224]
