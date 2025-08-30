@@ -1,5 +1,6 @@
 import Message1 from "./Message1"
 import Message2 from "./Message2";
+import WelcomeMessage from "./WelcomeMessage";
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <div>
         <Message1 />
         <Message2 />
+        <WelcomeMessage />
     </div>
   )
 }
